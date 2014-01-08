@@ -18,6 +18,8 @@
     "bower_components",
     "test",
     "tests",
-    "package.json"
+    "package.json",
+    "PATENTS",
+    "CLA.txt"
   ]
 }
