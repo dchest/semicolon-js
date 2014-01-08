@@ -1,7 +1,7 @@
 {
   "name": "semicolon",
   "version": "0.0.1",
-  "description": "The most useful JavaScript library for idiots",
+  "description": "The most useful JavaScript library for cargo cult programmers",
   "main": "semicolon.js",
   "directories": {
     "test": "test"

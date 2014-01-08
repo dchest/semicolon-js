@@ -5,7 +5,7 @@
   "authors": [
     "Dmitry Chestnykh <dmitry@codingrobots.com>"
   ],
-  "description": "The most useful JavaScript library for idiots",
+  "description": "The most useful JavaScript library for cargo cult programmers",
   "main": "semicolon.js",
   "keywords": [
     "semicolon",
