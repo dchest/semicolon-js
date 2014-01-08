@@ -46,7 +46,7 @@ T-Shirt
 
 [Buy a beautiful t-shirt with Semicolon.js logo!](http://www.cafepress.com/semicolonjs.1224973466)
 Because [every](https://twitter.com/search?q=gulpjs%20t-shirt&src=typd) JavaScript project must have a t-shirt!
-
+All proceeds will be donated to people who bought other stupid t-shirts.
 
 License
 -------
