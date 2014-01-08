@@ -39,6 +39,10 @@ Example:
 
 	cat file1.js semicolon.js file2.js semicolon.js > out.js
 
+Minified version
+----------------
+
+For production use, a minified version is available in semicolon.min.js.
 
 License
 -------
