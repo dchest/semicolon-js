@@ -48,6 +48,34 @@ T-Shirt
 Because [every](https://twitter.com/search?q=gulpjs%20t-shirt&src=typd) JavaScript project must have a t-shirt!
 All proceeds will be donated to people who bought other stupid t-shirts.
 
+
+FAQ
+---
+
+### I don't get it.
+
+Just stop putting a semicolon at the beginning of your code. Please.
+
+### Whaaaat?
+
+Apparently some people believed that to fix improper concatenation of
+JavaScript files (in some cases they can't be safely concatenated),
+they needed to prepend semicolon to their code instead of properly
+concatenating files. Then other clueless JavaScript developers read
+their code and [continued this dumb tradition](https://en.wikipedia.org/wiki/Cargo_cult_programming).
+
+If you'll ever see this code:
+
+	;function()...
+
+tell its author to use Semicolon.js instead of putting semicolon there.
+
+
+### How is it different from [vapor.js](https://github.com/madrobby/vapor.js) or earlier [semicolon.js](https://github.com/madrobby/semicolon.js)?
+
+These frameworks are jokes, my Semicolon.js is a real deal and comes with ideology (see above).
+
+
 License
 -------
 
