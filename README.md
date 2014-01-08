@@ -40,6 +40,14 @@ Example:
 	cat file1.js semicolon.js file2.js semicolon.js > out.js
 
 
+
+Buy T-Shirt
+-----------
+
+[Buy a beautify t-shirt with Semicolon.js logo!](http://www.cafepress.com/semicolonjs.1224973466)
+Because every JavaScript project [must have a t-shirt](https://twitter.com/search?q=gulpjs%20t-shirt&src=typd)!
+
+
 License
 -------
 
