@@ -6,8 +6,8 @@ Semicolon.js
 You no longer need to put `;` before your JavaScript code! Use Semicolon.js!!!
 
 
-How to use
-----------
+Installation
+------------
 
 Clone this repository:
 
@@ -16,6 +16,10 @@ Clone this repository:
 or using [Bower](http://bower.io):
 
 	bower install semicolon
+
+
+Usage
+-----
 
 When you want to concatenate scripts, just add Semicolon.js for every file!
 
