@@ -1,0 +1,26 @@
+{
+  "name": "semicolon",
+  "version": "0.0.1",
+  "description": "The most useful JavaScript library for idiots",
+  "main": "semicolon.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dchest/semicolon-js.git"
+  },
+  "keywords": [
+    "semicolon",
+    "concatenation"
+  ],
+  "author": "Dmitry Chestnykh",
+  "license": "Public domain",
+  "bugs": {
+    "url": "https://github.com/dchest/semicolon-js/issues"
+  },
+  "homepage": "https://github.com/dchest/semicolon-js"
+}

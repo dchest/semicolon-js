@@ -1,6 +1,8 @@
 Semicolon.js
 ============
 
+[![Build Status](https://travis-ci.org/dchest/semicolon-js.png)](https://travis-ci.org/dchest/semicolon-js)
+
 You no longer need to put `;` before your JavaScript code! Use Semicolon.js!!!
 
 
