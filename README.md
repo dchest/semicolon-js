@@ -13,6 +13,10 @@ Clone this repository:
 
 	git clone https://github.com/dchest/semicolon.js
 
+or using [Bower](http://bower.io):
+
+	bower install semicolon
+
 When you want to concatenate scripts, just add Semicolon.js for every file!
 
 Example:
