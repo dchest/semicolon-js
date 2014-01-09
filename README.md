@@ -56,6 +56,17 @@ FAQ
 
 Just stop putting a semicolon at the beginning of your code. Please.
 
+Semicolons to terminate statements are good:
+
+	var x = 1;
+	return x;
+
+A semicolon before the code to protect from people who can't concatenate files
+is a useless piece of junk:
+
+	;var x = 1;
+	return x;
+
 ### Whaaaat?
 
 Apparently some people believed that to fix improper concatenation of
