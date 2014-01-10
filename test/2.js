@@ -1,2 +1,2 @@
 +1
-require('assert')(x==1)
+require('assert')(x===1)
