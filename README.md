@@ -10,6 +10,8 @@
                                                                            ;;;;;
 ```
 
+![Semicolon.js Logo (PNG)](logo.png)
+
 Semicolon.js
 ============
 
