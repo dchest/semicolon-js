@@ -74,8 +74,8 @@ is a useless piece of junk:
 Apparently some people believed that to fix improper concatenation of
 JavaScript files (in some cases they can't be safely concatenated);
 they needed to prepend semicolon to their code instead of properly
-concatenating files. Then other clueless JavaScript developers read
-their code and [continued this dumb tradition](https://en.wikipedia.org/wiki/Cargo_cult_programming).
+concatenating files. Then other JavaScript developers read
+their code and [continued this unfortunate tradition](https://en.wikipedia.org/wiki/Cargo_cult_programming).
 
 If you'll ever see this code:
 
